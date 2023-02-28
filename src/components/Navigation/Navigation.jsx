@@ -19,7 +19,7 @@ export const Navigation = () => {
                         <button className={ classNames(style.button, style.button_hotdog) }>Хот-доги</button>
                     </li>
                     <li className={style.item}>
-                        <button className={ classNames(style.button, style.button_kombo) }>Комбо</button>
+                        <button className={ classNames(style.button, style.button_combo) }>Комбо</button>
                     </li>
                     <li className={style.item}>
                         <button className={ classNames(style.button, style.button_shawarma) }>Шаурма</button>
